@@ -1,0 +1,45 @@
+body{
+  background: #e2fcef;
+  font-family : Arial;
+}
+
+
+
+
+h1 {
+  text-align:center;
+  text-decoration: underline;
+  color:#f89;
+
+}
+
+
+
+form {
+  margin-top: 5%;
+  margin-left: 40%;
+}
+
+p {
+  margin-left: 10%;
+  margin-right: 10%;
+  font-size: 14px;
+}
+
+
+button {
+  padding:10px;
+  background-color:#f89;
+  border-radius: 40%;
+}
+
+button:hover{
+  background:#5c164e;
+  color:#fff;
+}
+
+strong{
+  font-size: 18px;
+  color:#f3f;
+
+}
